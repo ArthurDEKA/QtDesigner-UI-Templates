@@ -14,5 +14,5 @@
 
 # MIT Licence:
 
-"The MIT license gives users express permission to reuse code for any purpose, sometimes even if code is part of proprietary software. As long as users include the original copy of the MIT license in their distribution, they can make any changes or modifications to the code to suit their own needs."
+"The MIT license gives users express permission to reuse code for any purpose, [...] As long as users include the original copy of the MIT license in their distribution, they can make any changes or modifications to the code to suit their own needs."
 (https://snyk.io)
